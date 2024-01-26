@@ -1,3 +1,4 @@
+// PAYLOAD
 // Vencord eba75ca
 // Standalone: false
 // Platform: win32
