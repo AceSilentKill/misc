@@ -1,3 +1,4 @@
+// PAYLOAD
 // Vencord 9a17eee
 // Standalone: true
 // Platform: Universal
